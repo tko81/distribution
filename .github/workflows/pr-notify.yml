@@ -1,4 +1,4 @@
-name: pr-notify.yml
+name: pr-notify
 
 on:
   pull_request:
